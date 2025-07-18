@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/varunkumarnr/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/varunkumarnr/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/varunkumarnr/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/varunkumarnr/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/varunkumarnr/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/varunkumarnr/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
