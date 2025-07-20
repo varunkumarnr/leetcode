@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
