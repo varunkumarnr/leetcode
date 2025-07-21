@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/varunkumarnr/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
