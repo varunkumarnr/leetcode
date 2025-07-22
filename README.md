@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/varunkumarnr/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
