@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/varunkumarnr/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
