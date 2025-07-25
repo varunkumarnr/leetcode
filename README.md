@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
