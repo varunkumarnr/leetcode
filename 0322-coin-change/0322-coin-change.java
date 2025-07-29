@@ -1,11 +1,11 @@
 class Solution {
     HashMap<Integer, Integer> memo = new HashMap<>();
     public int coinChange(int[] coins, int amount) {
-        int result = dfs(coins, amount, 0, 0); 
+        int result = dfs(coins, amount); 
         return result == Integer.MAX_VALUE ? -1 : result ;
     }
 
-    int dfs(int[] coins, int amount, int start, int curr) {
+    int dfs(int[] coins, int amount) {
         if(amount == 0) {
             return 0; 
         }
@@ -15,7 +15,7 @@ class Solution {
         if (memo.containsKey(amount)) return memo.get(amount);
         int min = Integer.MAX_VALUE;
         for(int i= 0; i<coins.length; i++) {
-           int res =  dfs(coins, amount - coins[i], i, curr); 
+           int res =  dfs(coins, amount - coins[i]); 
             if (res != Integer.MAX_VALUE) {
                 min = Math.min(min, res + 1);
             }
