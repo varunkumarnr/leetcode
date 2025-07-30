@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/varunkumarnr/leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/varunkumarnr/leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varunkumarnr/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/varunkumarnr/leetcode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/varunkumarnr/leetcode/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
