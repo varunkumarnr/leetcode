@@ -16,3 +16,45 @@ class Solution {
         return dp[m][n]; 
     }
 }
+
+// class Solution {
+//     public int longestCommonSubsequence(String text1, String text2) {
+//        return lcs(text1, text2, text1.length(), text2.length()); 
+//     }
+//     public int lcs(String text1, String text2, int m, int n) {
+//         if(m == 0 || n == 0) return 0; 
+//         if(text1.charAt(m-1) == text2.charAt(n-1)) {
+//             return 1 + lcs(text1, text2, m-1,n-1);
+//         }
+//         return Math.max(lcs(text1, text2, m-1,n), lcs(text1, text2,m, n-1)); 
+//     }
+// }
+
+// class Solution {
+//     Map<Pair, Integer> memo = new HashMap<>();
+
+//     public int longestCommonSubsequence(String text1, String text2) {
+//         return lcs(text1, text2, text1.length(), text2.length());
+//     }
+
+//     int lcs(String t1, String t2, int m, int n) {
+//         if (m == 0 || n == 0) return 0;
+
+//         Pair key = new Pair(m, n);
+//         if (memo.containsKey(key)) return memo.get(key);
+
+//         int result;
+//         if (t1.charAt(m - 1) == t2.charAt(n - 1)) {
+//             result = 1 + lcs(t1, t2, m - 1, n - 1);
+//         } else {
+//             result = Math.max(lcs(t1, t2, m - 1, n), lcs(t1, t2, m, n - 1));
+//         }
+
+//         memo.put(key, result);
+//         return result;
+//     }
+
+//     record Pair(int m, int n) {}
+// }
+
+
