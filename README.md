@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/varunkumarnr/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/varunkumarnr/leetcode/tree/master/0274-h-index) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/varunkumarnr/leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/varunkumarnr/leetcode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/1250-longest-common-subsequence) |
