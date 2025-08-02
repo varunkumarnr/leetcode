@@ -1,29 +1,24 @@
 class Solution {
-    int count = 0; 
+    int count = 0;
+
     public int countMaxOrSubsets(int[] nums) {
         int maxOr = 0;
-        for(int i = 0; i<nums.length; i++) {
-            maxOr |= nums[i];
+
+        for (int num : nums) {
+            maxOr |= num;
         }
-        backtrack(nums, maxOr, 0, new ArrayList<>(), 0);  
-        return count; 
+
+        backtrack(nums, 0, 0, maxOr);
+        return count;
     }
-    void backtrack(int[] nums, int maxOr, int start, List<Integer> tempList, int curr) {
-        if(maxOr == curr) {
-            count++; 
+
+    void backtrack(int[] nums, int index, int currOr, int maxOr) {
+        if (index == nums.length) {
+            if (currOr == maxOr) count++;
+            return;
         }
-        for(int i = start; i < nums.length; i++) {
-            tempList.add(nums[i]);
-            curr = helper(tempList);
-            backtrack(nums, maxOr, i+1, tempList, curr);
-            tempList.remove(tempList.size() -1); 
-        }
-    } 
-    int helper(List<Integer> nums) { 
-        int currOr = 0;
-        for(int i = 0; i<nums.size(); i++) {
-            currOr |= nums.get(i);
-        }
-        return currOr; 
+
+        backtrack(nums, index + 1, currOr | nums[index], maxOr);
+        backtrack(nums, index + 1, currOr, maxOr);
     }
 }
