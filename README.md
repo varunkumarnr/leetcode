@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/varunkumarnr/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/varunkumarnr/leetcode/tree/master/0118-pascals-triangle) |
