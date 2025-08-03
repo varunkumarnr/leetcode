@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/varunkumarnr/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/varunkumarnr/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/varunkumarnr/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
@@ -201,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/varunkumarnr/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/varunkumarnr/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
