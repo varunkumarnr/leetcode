@@ -2,6 +2,9 @@ class NumArray {
     List<Integer> prefix = new ArrayList<>(); 
     public NumArray(int[] nums) {
         int currSum = 0;
+        if(nums == null || nums.length == 0) {
+            return;
+        }
         for(int i =0; i<nums.length; i++) {
             currSum += nums[i]; 
             prefix.add(currSum);
