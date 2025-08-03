@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/varunkumarnr/leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/varunkumarnr/leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varunkumarnr/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
