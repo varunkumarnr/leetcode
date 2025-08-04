@@ -12,7 +12,6 @@ class Solution {
                 }
                 left++;
             }
-            System.out.println(right + " " + left);
             maxCount = Math.max(maxCount , (right- left)+1);  
             right++;
         }
