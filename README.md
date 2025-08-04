@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/varunkumarnr/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/varunkumarnr/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varunkumarnr/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/varunkumarnr/leetcode/tree/master/0118-pascals-triangle) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varunkumarnr/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/varunkumarnr/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varunkumarnr/leetcode/tree/master/0191-number-of-1-bits) |
 ## Enumeration
