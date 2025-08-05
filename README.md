@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunkumarnr/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varunkumarnr/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2689-rearranging-fruits](https://github.com/varunkumarnr/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -253,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
