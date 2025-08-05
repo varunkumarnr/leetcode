@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunkumarnr/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varunkumarnr/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/varunkumarnr/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/varunkumarnr/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varunkumarnr/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
