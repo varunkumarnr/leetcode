@@ -1,7 +1,6 @@
 class Solution {
     public int search(int[] nums, int target) {
         int pivot = findPivot(nums);
-        System.out.println(pivot); 
         if(target >= nums[pivot] && target <= nums[nums.length-1]) {
             return binarySearch(nums, target, pivot, nums.length-1);
         } else {
@@ -27,9 +26,9 @@ class Solution {
                 return mid; 
             }
             if(nums[mid] < target) {
-                start = start + 1; 
+                start = mid + 1; 
             }else {
-                end =  end -1; 
+                end =  mid -1; 
             }
         }
         return -1; 
