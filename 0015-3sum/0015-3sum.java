@@ -18,7 +18,7 @@ class Solution {
                         r--;
                     }
                     l++;
-                    
+                    r--;
                 } else if(curr > 0) {
                     r--;
                 } else {
