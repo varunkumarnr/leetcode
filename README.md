@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/varunkumarnr/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/varunkumarnr/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunkumarnr/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/varunkumarnr/leetcode/tree/master/0125-valid-palindrome) |
 ## Segment Tree
 |  |
 | ------- |
