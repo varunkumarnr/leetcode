@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/varunkumarnr/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/varunkumarnr/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/varunkumarnr/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/varunkumarnr/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/varunkumarnr/leetcode/tree/master/0057-insert-interval) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunkumarnr/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/varunkumarnr/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varunkumarnr/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunkumarnr/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/varunkumarnr/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/varunkumarnr/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/varunkumarnr/leetcode/tree/master/0217-contains-duplicate) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/varunkumarnr/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/varunkumarnr/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/varunkumarnr/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/varunkumarnr/leetcode/tree/master/0242-valid-anagram) |
