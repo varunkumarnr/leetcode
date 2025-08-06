@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunkumarnr/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/varunkumarnr/leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunkumarnr/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varunkumarnr/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunkumarnr/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/varunkumarnr/leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/varunkumarnr/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/varunkumarnr/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunkumarnr/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunkumarnr/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/varunkumarnr/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
