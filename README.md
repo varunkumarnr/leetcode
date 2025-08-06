@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunkumarnr/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/varunkumarnr/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varunkumarnr/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/varunkumarnr/leetcode/tree/master/0076-minimum-window-substring) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varunkumarnr/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/varunkumarnr/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
