@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/varunkumarnr/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/varunkumarnr/leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/varunkumarnr/leetcode/tree/master/0695-max-area-of-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -361,4 +363,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
