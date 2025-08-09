@@ -24,14 +24,13 @@ class Solution {
             List<Integer> curr = new ArrayList<>(); 
             while(n > 0) {
                 TreeNode node = queue.poll();
-                if(node!=null) curr.add(node.val);
-                if(node != null) queue.offer(node.left);
-                if(node != null) queue.offer(node.right);
+                curr.add(node.val);
+                if(node.left != null) queue.offer(node.left);
+                if(node.right != null) queue.offer(node.right);
                 n--;
             }
-            if(curr.size() > 0) {
                 result.add(curr); 
-            }
+            
         }
         return result;
     }
