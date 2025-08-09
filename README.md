@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/varunkumarnr/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/varunkumarnr/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varunkumarnr/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/varunkumarnr/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/varunkumarnr/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/varunkumarnr/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
 ## Merge Sort
 |  |
 | ------- |
