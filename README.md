@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varunkumarnr/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/varunkumarnr/leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varunkumarnr/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1962-single-threaded-cpu](https://github.com/varunkumarnr/leetcode/tree/master/1962-single-threaded-cpu) |
 ## Stack
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varunkumarnr/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/varunkumarnr/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/varunkumarnr/leetcode/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/varunkumarnr/leetcode/tree/master/0647-palindromic-substrings) |
 ## Segment Tree
 |  |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
