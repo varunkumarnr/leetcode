@@ -14,7 +14,6 @@ class MedianFinder {
             right.offer(num);
         }
 
-        // Balance heaps so that either both have equal size or left has one more element
         if (left.size() > right.size() + 1) {
             right.offer(left.poll());
         } else if (right.size() > left.size()) {
