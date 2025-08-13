@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/varunkumarnr/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunkumarnr/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/varunkumarnr/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/varunkumarnr/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/varunkumarnr/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunkumarnr/leetcode/tree/master/0342-power-of-four) |
 ## Merge Sort
 |  |
