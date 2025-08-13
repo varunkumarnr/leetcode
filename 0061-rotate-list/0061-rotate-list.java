@@ -2,28 +2,25 @@ class Solution {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k == 0) return head;
 
-        Stack<ListNode> stack = new Stack<>();
-        ListNode curr = head;
-        while (curr != null) {
-            stack.push(curr);
-            curr = curr.next;
+        // Find length and connect tail to head (circular list)
+        int length = 1;
+        ListNode tail = head;
+        while (tail.next != null) {
+            length++;
+            tail = tail.next;
         }
+        tail.next = head; // circle
 
-        int length = stack.size();
+        // Find new head after rotation
         k = k % length;
-        if (k == 0) return head;
-
-        for (int i = 0; i < k; i++) {
-            curr = stack.pop();
+        int stepsToNewHead = length - k;
+        ListNode newTail = tail;
+        while (stepsToNewHead-- > 0) {
+            newTail = newTail.next;
         }
 
-        ListNode newHead = curr;
-        ListNode prevTail = stack.peek();
-        prevTail.next = null;
-
-        ListNode temp = newHead;
-        while (temp.next != null) temp = temp.next;
-        temp.next = head;
+        ListNode newHead = newTail.next;
+        newTail.next = null; // break circle
 
         return newHead;
     }
