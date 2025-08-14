@@ -17,7 +17,7 @@ class Solution {
             }
             curr++; 
         }
-        maxNumber  = max == -1  ?  "" : String.valueOf(max) + String.valueOf(max) + String.valueOf(max); 
+        maxNumber  = max == -1  ?  "" : "" +max + max + max; 
         return maxNumber; 
     }
 }
