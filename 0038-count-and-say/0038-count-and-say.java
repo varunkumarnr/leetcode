@@ -12,7 +12,6 @@ class Solution {
             } 
             sb.append(count).append(str.charAt(i - 1));
         } 
-        System.out.println(sb.toString());
         return sb.toString(); 
     }
 }
