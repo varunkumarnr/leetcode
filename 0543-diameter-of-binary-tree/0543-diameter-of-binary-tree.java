@@ -20,12 +20,11 @@ class Solution {
         return maxLength;
     }
     int dfs(TreeNode root) {
-        if(root == null) {
-            return 0;
-        }
-        int leftDiameter = dfs(root.left);
-        int rightDiameter = dfs(root.right); 
-        maxLength = Math.max(maxLength, leftDiameter+rightDiameter); 
-        return 1+ Math.max(leftDiameter , rightDiameter);
+        if(root == null) return 0; 
+        int leftHeight  = dfs(root.left); 
+        int rightHeight = dfs(root.right); 
+        int currLength = leftHeight + rightHeight;
+        maxLength = Math.max(maxLength, currLength); 
+        return 1 + Math.max(leftHeight, rightHeight);
     }
 }
