@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/varunkumarnr/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/varunkumarnr/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/varunkumarnr/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varunkumarnr/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
