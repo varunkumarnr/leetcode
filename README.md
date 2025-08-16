@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/varunkumarnr/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/varunkumarnr/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 ## Design
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/varunkumarnr/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
