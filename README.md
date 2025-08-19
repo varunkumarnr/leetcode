@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varunkumarnr/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/varunkumarnr/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/varunkumarnr/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/varunkumarnr/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/varunkumarnr/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/varunkumarnr/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/varunkumarnr/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/varunkumarnr/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/varunkumarnr/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/varunkumarnr/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/varunkumarnr/leetcode/tree/master/0118-pascals-triangle) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/varunkumarnr/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
