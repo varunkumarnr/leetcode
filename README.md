@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varunkumarnr/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/varunkumarnr/leetcode/tree/master/0133-clone-graph) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/varunkumarnr/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varunkumarnr/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/varunkumarnr/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/varunkumarnr/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/varunkumarnr/leetcode/tree/master/0200-number-of-islands) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/varunkumarnr/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/varunkumarnr/leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varunkumarnr/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/varunkumarnr/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/varunkumarnr/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0206-reverse-linked-list) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varunkumarnr/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/varunkumarnr/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0226-invert-binary-tree) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varunkumarnr/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varunkumarnr/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/varunkumarnr/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0226-invert-binary-tree) |
