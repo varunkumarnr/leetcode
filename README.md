@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 ## Combinatorics
 |  |
 | ------- |
