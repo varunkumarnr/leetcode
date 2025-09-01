@@ -10,12 +10,11 @@ class Solution {
             maxHeap.offer(c); 
         }
 
-        while(extraStudents > 0) {
+        while(extraStudents-- > 0) {
             int[] top = maxHeap.poll();
             top[0] = top[0] + 1; 
             top[1] = top[1] + 1; 
             maxHeap.offer(top);   
-            extraStudents--;
         }
 
         double sum = 0; 
