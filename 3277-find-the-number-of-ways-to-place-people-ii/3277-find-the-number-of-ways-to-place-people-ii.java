@@ -11,8 +11,8 @@ class Solution {
                 int[] second = points[j];
                 if(first[0] >= second[0] && first[1] <= second[1]) {
                     boolean blocked = false; 
-                    for(int k = i; k< j; k++) {
-                        if( k == i || k == j) continue; 
+                    for(int k = i+1; k< j; k++) {
+                        // if( k == i || k == j) continue; 
                         if (first[0] >= points[k][0] && points[k][0] >= second[0]
                             && first[1] <= points[k][1] && points[k][1] <= second[1]) {
                                 blocked = true; 
@@ -25,33 +25,4 @@ class Solution {
         }
         return count; 
     }
-
-    // do a binary search to get both the start and end indescis and only check between them.  
-    // int binarySearch(int[][] points, int target) {
-    //     int start = 0; 
-    //     int end = points.length;
-    //     while(start < end){ 
-    //         int mid = (start+ end)/2; 
-    //         if(points[mid][0] < target) {
-    //             end = mid; 
-    //         } else { 
-    //             start = mid+1; 
-    //         }
-    //     }
-    //     return start; 
-    // }
-
-    // int binarySearchEnd(int[][] points, int target) {
-    //     int start = 0; 
-    //     int end = points.length;
-    //     while(start < end){ 
-    //         int mid = (start+ end)/2; 
-    //         if(points[mid][0] < target) {
-    //             end = mid; 
-    //         } else { 
-    //             start = mid+1; 
-    //         }
-    //     }
-    //     return start; 
-    // }
 }
