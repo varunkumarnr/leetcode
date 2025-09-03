@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/varunkumarnr/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/varunkumarnr/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/varunkumarnr/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Backtracking
 |  |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/varunkumarnr/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/varunkumarnr/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
