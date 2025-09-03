@@ -12,7 +12,6 @@ class Solution {
                     continue; 
                 }
                 int idx =  stack.pop(); 
-                System.out.println(idx);
                 sb.append(')');
                 sb.insert(idx - stack.size() - closecounter, '(');
             } else {
