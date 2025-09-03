@@ -4,7 +4,6 @@ class Solution {
             if (a[0] != b[0]) return b[0] - a[0];
             else return a[1] - b[1];
         });
-        System.out.println(Arrays.deepToString(points));
         int count = 0; 
         for(int i = 0; i<points.length; i++) {
             for(int j =i+1; j<points.length; j++) {                
