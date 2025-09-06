@@ -26,8 +26,8 @@ class Solution {
                  if(low <= curr.val && high >= curr.val) {
                     sum += curr.val; 
                  }
-                 if(curr.left != null) queue.offer(curr.left); 
-                 if(curr.right != null) queue.offer(curr.right); 
+                 if(curr.left != null && curr.val > low) queue.offer(curr.left); 
+                 if(curr.right != null && curr.val < high) queue.offer(curr.right); 
                  n--; 
             }
         }   
