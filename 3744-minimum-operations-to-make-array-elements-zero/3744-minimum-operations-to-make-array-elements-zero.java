@@ -1,5 +1,4 @@
 class Solution {
-    // change return type to long
     public long minOperations(int[][] nums) {
         long result = 0L;
         for (int[] range : nums) {
