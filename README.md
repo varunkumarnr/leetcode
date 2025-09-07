@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varunkumarnr/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/varunkumarnr/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/varunkumarnr/leetcode/tree/master/1962-single-threaded-cpu) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/varunkumarnr/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/varunkumarnr/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varunkumarnr/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/varunkumarnr/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varunkumarnr/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
