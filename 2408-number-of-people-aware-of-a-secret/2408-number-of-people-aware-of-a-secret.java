@@ -28,38 +28,37 @@
 // }
 
 class Solution { 
-    /* 
-       0 1 1 2 3 3 5
-    */ 
     public int peopleAwareOfSecret(int n, int delay, int forget) { 
-        long[] dp = new long[n+1]; 
+        final int MOD = 1_000_000_007;
+        long[] dp = new long[n + 1]; 
         dp[0] = 0; 
         dp[1] = 1; 
-        for(int i=2; i<=n; i++) {
-            int todaysPeople = 0 ; 
-            if(i<=delay) { 
+        
+        for (int i = 2; i <= n; i++) {
+            if (i <= delay) { 
                 continue; 
             } 
-            // need to add yesterdays count than count of new users who can share + remve users that forget
-            if(i <= forget) {
-                for(int j = 0 ; j <i; j++) {
-                        if(i - j >= delay) { 
-                            dp[i] += dp[j];
-                        }
+            if (i <= forget) {
+                for (int j = 0; j < i; j++) {
+                    if (i - j >= delay) { 
+                        dp[i] = (dp[i] + dp[j]) % MOD;
+                    }
                 }
             } else {
-                for(int j = (i - (forget-1)); j <i; j++) {
-                if(i - j >= delay) {
-                    dp[i] += dp[j];
+                for (int j = i - (forget - 1); j < i; j++) {
+                    if (i - j >= delay && i - j < forget) {
+                        dp[i] = (dp[i] + dp[j]) % MOD;
+                    }
                 }
             }
+        }
+        long total = 0; 
+        for (int i = (n + 1) - forget; i <= n; i++) { 
+            if (i >= 0) {
+                total = (total + dp[i]) % MOD;
             }
         }
-        System.out.println(Arrays.toString(dp));
-        long total = 0; 
-        for(int i = (n+1) - (forget); i<=n ;i++) { 
-            total += dp[i]; 
-        }
-        return (int) total % 1000000007;
+        
+        return (int) total;
     } 
 }
