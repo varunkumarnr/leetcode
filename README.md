@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/varunkumarnr/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/varunkumarnr/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/varunkumarnr/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/varunkumarnr/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/varunkumarnr/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/varunkumarnr/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunkumarnr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/varunkumarnr/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varunkumarnr/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/varunkumarnr/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/varunkumarnr/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varunkumarnr/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunkumarnr/leetcode/tree/master/0342-power-of-four) |
+| [3799-unique-3-digit-even-numbers](https://github.com/varunkumarnr/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
