@@ -4,12 +4,10 @@ class Solution {
         for(char c: s.toCharArray()) { 
             c = Character.toLowerCase(c); 
             if(c == 'a' || c== 'e' || c== 'i'|| c=='o' || c=='u') {
-                countVowels++; 
+                return true;
             }
         }
-        if(countVowels == 0) {
-            return false;
-        }
-        return true;
+        return false; 
+        
     }
 }
