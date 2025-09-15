@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunkumarnr/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/varunkumarnr/leetcode/tree/master/0647-palindromic-substrings) |
+| [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1006-vowel-spellchecker](https://github.com/varunkumarnr/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/varunkumarnr/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/varunkumarnr/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [0940-fruit-into-baskets](https://github.com/varunkumarnr/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/varunkumarnr/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/varunkumarnr/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/varunkumarnr/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
+| [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
 | [1962-single-threaded-cpu](https://github.com/varunkumarnr/leetcode/tree/master/1962-single-threaded-cpu) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varunkumarnr/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/varunkumarnr/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/varunkumarnr/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/varunkumarnr/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/varunkumarnr/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/varunkumarnr/leetcode/tree/master/1962-single-threaded-cpu) |
 ## Stack
