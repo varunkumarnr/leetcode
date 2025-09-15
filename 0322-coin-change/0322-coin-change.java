@@ -1,26 +1,25 @@
 class Solution {
-    HashMap<Integer, Integer> memo = new HashMap<>();
+    HashMap<String, Integer> memo = new HashMap<>();
+
     public int coinChange(int[] coins, int amount) {
-        int result = dfs(coins, amount); 
-        return result == Integer.MAX_VALUE ? -1 : result ;
+        int ans = dfs(coins, amount, 0);
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 
-    int dfs(int[] coins, int amount) {
-        if(amount == 0) {
-            return 0; 
-        }
-        if(amount < 0) {
-            return Integer.MAX_VALUE; 
-        }
-        if (memo.containsKey(amount)) return memo.get(amount);
-        int min = Integer.MAX_VALUE;
-        for(int i= 0; i<coins.length; i++) {
-           int res =  dfs(coins, amount - coins[i]); 
-            if (res != Integer.MAX_VALUE) {
-                min = Math.min(min, res + 1);
-            }
-        } 
-        memo.put(amount, min);
-        return min; 
+    int dfs(int[] coins, int amount, int index) {
+        if (amount == 0) return 0;
+        if (index >= coins.length || amount < 0) return Integer.MAX_VALUE;
+
+        String key = index + "|" + amount;
+        if (memo.containsKey(key)) return memo.get(key);
+
+        int skip = dfs(coins, amount, index + 1);
+
+        int take = dfs(coins, amount - coins[index], index);
+        if (take != Integer.MAX_VALUE) take += 1;
+
+        int result = Math.min(skip, take);
+        memo.put(key, result);
+        return result;
     }
 }
