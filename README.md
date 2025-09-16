@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/varunkumarnr/leetcode/tree/master/1962-single-threaded-cpu) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunkumarnr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varunkumarnr/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/varunkumarnr/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/varunkumarnr/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/varunkumarnr/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/varunkumarnr/leetcode/tree/master/2689-rearranging-fruits) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varunkumarnr/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/varunkumarnr/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/varunkumarnr/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/varunkumarnr/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varunkumarnr/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/varunkumarnr/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/varunkumarnr/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/varunkumarnr/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -676,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/varunkumarnr/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
