@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/varunkumarnr/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/varunkumarnr/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/varunkumarnr/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunkumarnr/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/varunkumarnr/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/varunkumarnr/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/varunkumarnr/leetcode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/varunkumarnr/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/varunkumarnr/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/varunkumarnr/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/varunkumarnr/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/varunkumarnr/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/varunkumarnr/leetcode/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/varunkumarnr/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunkumarnr/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/varunkumarnr/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunkumarnr/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/varunkumarnr/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/varunkumarnr/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/varunkumarnr/leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/varunkumarnr/leetcode/tree/master/3797-design-spreadsheet) |
 ## Randomized
 |  |
 | ------- |
