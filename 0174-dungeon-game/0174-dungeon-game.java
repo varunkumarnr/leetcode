@@ -65,7 +65,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.deepToString(dp)); 
         return dp[0][0]; 
     }
 } 
