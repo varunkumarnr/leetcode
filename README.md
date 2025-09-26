@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/varunkumarnr/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunkumarnr/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/varunkumarnr/leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunkumarnr/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/varunkumarnr/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/varunkumarnr/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/varunkumarnr/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/varunkumarnr/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/varunkumarnr/leetcode/tree/master/0907-koko-eating-bananas) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varunkumarnr/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/varunkumarnr/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/varunkumarnr/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/varunkumarnr/leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/varunkumarnr/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/varunkumarnr/leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/varunkumarnr/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
