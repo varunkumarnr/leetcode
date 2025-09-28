@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varunkumarnr/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunkumarnr/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/varunkumarnr/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/varunkumarnr/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/varunkumarnr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/varunkumarnr/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/varunkumarnr/leetcode/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/varunkumarnr/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/varunkumarnr/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/varunkumarnr/leetcode/tree/master/0937-online-stock-span) |
 | [2023-design-movie-rental-system](https://github.com/varunkumarnr/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/varunkumarnr/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varunkumarnr/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/varunkumarnr/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/varunkumarnr/leetcode/tree/master/0460-lfu-cache) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/varunkumarnr/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/varunkumarnr/leetcode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/varunkumarnr/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/varunkumarnr/leetcode/tree/master/0460-lfu-cache) |
 ## Iterator
 |  |
