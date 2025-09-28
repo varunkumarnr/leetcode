@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/varunkumarnr/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/varunkumarnr/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/varunkumarnr/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/varunkumarnr/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/varunkumarnr/leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunkumarnr/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varunkumarnr/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/varunkumarnr/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/varunkumarnr/leetcode/tree/master/0384-shuffle-an-array) |
 | [0830-largest-triangle-area](https://github.com/varunkumarnr/leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/varunkumarnr/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varunkumarnr/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/varunkumarnr/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varunkumarnr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
+| [1018-largest-perimeter-triangle](https://github.com/varunkumarnr/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/varunkumarnr/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/varunkumarnr/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/varunkumarnr/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/varunkumarnr/leetcode/tree/master/0778-reorganize-string) |
+| [1018-largest-perimeter-triangle](https://github.com/varunkumarnr/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varunkumarnr/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
 | [1962-single-threaded-cpu](https://github.com/varunkumarnr/leetcode/tree/master/1962-single-threaded-cpu) |
