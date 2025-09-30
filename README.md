@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varunkumarnr/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/varunkumarnr/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/varunkumarnr/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/varunkumarnr/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/varunkumarnr/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/varunkumarnr/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/varunkumarnr/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/varunkumarnr/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/varunkumarnr/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/varunkumarnr/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/varunkumarnr/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varunkumarnr/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/varunkumarnr/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/varunkumarnr/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/varunkumarnr/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/varunkumarnr/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varunkumarnr/leetcode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/varunkumarnr/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
