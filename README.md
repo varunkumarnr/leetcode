@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/varunkumarnr/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/varunkumarnr/leetcode/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/varunkumarnr/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0868-binary-gap](https://github.com/varunkumarnr/leetcode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/varunkumarnr/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunkumarnr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/varunkumarnr/leetcode/tree/master/2529-range-product-queries-of-powers) |
