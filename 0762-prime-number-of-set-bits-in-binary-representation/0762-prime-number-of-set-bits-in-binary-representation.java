@@ -8,7 +8,6 @@ class Solution {
                     setCount++; 
                 } 
             }
-            System.out.println(setCount); 
            
             boolean prime = true;  
              if(setCount < 2) {
