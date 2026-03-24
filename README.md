@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/varunkumarnr/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varunkumarnr/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1217-relative-sort-array](https://github.com/varunkumarnr/leetcode/tree/master/1217-relative-sort-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/varunkumarnr/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/varunkumarnr/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varunkumarnr/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/varunkumarnr/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/varunkumarnr/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/varunkumarnr/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/varunkumarnr/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/varunkumarnr/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varunkumarnr/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/varunkumarnr/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/varunkumarnr/leetcode/tree/master/1448-maximum-69-number) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/varunkumarnr/leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/varunkumarnr/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/varunkumarnr/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varunkumarnr/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
