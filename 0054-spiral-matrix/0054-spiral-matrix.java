@@ -11,7 +11,6 @@ class Solution {
 
             boolean moved = false;
 
-            // 🔴 FIX: escape visited cell before loop
             if (matrix[at_x][at_y] == Integer.MAX_VALUE) {
                 if (dir == 0) at_y++;
                 else if (dir == 1) at_y--;
